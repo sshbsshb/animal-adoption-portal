@@ -41,7 +41,7 @@ namespace AnimalAdoption.Common.Logic
                     name = "Murphy";
                     break;
                 case "placeholder":
-                    name = "Placeholder";
+                    name = "sagasg";
                     break;
             }
             return name;
